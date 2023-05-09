@@ -1,5 +1,7 @@
-# OOP-Quiz
+# OOP_Quiz
  Little Quiz game using OOP to fetch questions and right answers from a preconfigured database
+ 
+![image](https://github.com/ahskur/OOP_Quiz/assets/63268217/c8ebdeea-963b-4546-8714-28e0f51dba3c)
 
 Day 17 of 100 Days of Code Challenge
 This was probably the hardest one yet - Or at least the one I've really had a hard time figuring it out.
